@@ -1,4 +1,4 @@
-# Abdou Bah
+# Abdoulaye Bah
 
 Actuarial science, risk management, statistics and data science.
 MSc Actuarial Science & Finance (Université de Rouen Normandie), MSc student in Statistics, Modelling and Data Science (Université Lyon 1), one year as a risk manager in life insurance.
